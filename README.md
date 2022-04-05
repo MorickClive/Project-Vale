@@ -1,9 +1,5 @@
 # Project-Vale
 
-Project Vale is a refresher project designed to present a series of topics to cover.
-
----
-
 ## Sub-Projects:
 
 - [Vale-Java-Practice](https://github.com/MorickClive/Vale-Java-Practice)
@@ -14,7 +10,7 @@ Project Vale is a refresher project designed to present a series of topics to co
 
 ---
 
-<details><summary>Topic Details</summary>
+<details><summary>topics</summary>
   
 Java:
 - Java Procedural Programming
