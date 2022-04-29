@@ -2,32 +2,32 @@
 
 ## Sub-Projects:
 
-- [Vale-Java-Practice](https://github.com/MorickClive/Vale-Java-Practice)
+- [Vale-Java-Practice](https://github.com/MorickClive/Vale-Java-Practice) - < `Advanced Java - MileStone Complete` >
 
-- [Vale-JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice)
+- [Vale-JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice) - < `JDBC (Note Tracker) - MileStone Complete` >
 
-- [Vale-SpringREST-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice)
+- [Vale-SpringREST-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Active` >
 
 ---
 
-<details><summary>topics</summary>
+<details><summary>Topics</summary>
   
 Java:
-- Java Procedural Programming
-- Object-Oriented Programming
-- Threading & Concurency
-- JDBC
+- Java Procedural Programming <`Complete`>
+- Object-Oriented Programming <`Complete`>
+- Threading & Concurency <`Complete`>
+- JDBC <`Complete`>
 
 SQL
-- DDL
-- DML
+- DDL <`Complete`>
+- DML <`Complete`>
 - DQL
-- Entity Relationship Diagrams (ERDs)
-- One-to-One Relationships
-- One-to-Many Relationships
+- Entity Relationship Diagrams (ERDs) <`Complete`>
+- One-to-One Relationships <`Complete`>
+- One-to-Many Relationships <`Complete`>
 
 Spring
-- Beans
+- Beans <`Complete`>
 - MVC/CRUD Application
 
 Junit:
