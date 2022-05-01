@@ -6,7 +6,7 @@
 
 - [Vale-JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice) - < `JDBC (Note Tracker) - MileStone Complete` >
 
-- [Vale-SpringREST-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Active` >
+- [Vale-SpringREST-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring Notetracker) - MileStone Complete` >
 
 ---
 
@@ -28,10 +28,10 @@ SQL
 
 Spring
 - Beans <`Complete`>
-- MVC/CRUD Application
+- MVC/CRUD Application <`Complete`>
 
 Junit:
-- Unit Testing
+- Unit Testing <`Complete`>
 - Integration Testing
 - System Testing
 - User Acceptance Testing
