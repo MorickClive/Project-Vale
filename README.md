@@ -2,11 +2,15 @@
 
 ## Sub-Projects:
 
-- [Vale-Java-Practice](https://github.com/MorickClive/Vale-Java-Practice) - < `Advanced Java - MileStone Complete` >
+- [Java-Practice](https://github.com/MorickClive/Vale-Java-Practice) - < `Advanced Java - MileStone Complete` >
 
-- [Vale-JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice) - < `JDBC (Note Tracker) - MileStone Complete` >
+- [JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice) - < `JDBC (Note Tracker) - MileStone Complete` >
 
-- [Vale-SpringREST-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring Notetracker) - MileStone Complete` >
+- [Spring-API-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring Notetracker) - MileStone Complete` >
+
+- [JavaScript-Practice](https://github.com/MorickClive) - < `Pending` >
+
+- [React-Practice](https://github.com/MorickClive) - < `Pending` >
 
 ---
 
