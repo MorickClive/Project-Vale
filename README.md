@@ -8,7 +8,7 @@
 
 - [Spring-API-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring Notetracker) - MileStone Complete` >
 
-- [JavaScript-Practice](https://github.com/MorickClive) - < `Pending` >
+- [Javascript-Practice](https://github.com/MorickClive/Vale-Javascript-Practice) - < `Active` >
 
 - [React-Practice](https://github.com/MorickClive) - < `Pending` >
 
