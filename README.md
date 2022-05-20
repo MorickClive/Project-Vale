@@ -6,9 +6,9 @@
 
 - [JDBC-Practice](https://github.com/MorickClive/Vale-JDBC-Practice) - < `JDBC (Note Tracker) - MileStone Complete` >
 
-- [Spring-API-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring Notetracker) - MileStone Complete` >
+- [Spring-API-Practice](https://github.com/MorickClive/Vale-SpringREST-Practice) - < `Spring (Notetracker) - MileStone Complete` >
 
-- [Javascript-Practice](https://github.com/MorickClive/Vale-Javascript-Practice) - < `Active` >
+- [Javascript-Practice](https://github.com/MorickClive/Vale-Javascript-Practice) - < `JS (Calculator) - MileStone Complete` >
 
 - [React-Practice](https://github.com/MorickClive) - < `Pending` >
 
