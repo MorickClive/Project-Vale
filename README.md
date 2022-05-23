@@ -44,19 +44,20 @@ Junit:
 
 HTML, CSS:
 - DOM:
-  - Tags
-  - Attributes
+  - Tags <`Complete`>
+  - Attributes <`Complete`>
 - Cascading Style Sheet:
-  - Styling
-  - Classes/ID
-  - Element alignment
-  - Flexbox
+  - Styling <`Complete`>
+  - Classes/ID <`Complete`>
+  - Element Alignment <`Complete`>
+  - Flexbox <`Complete`>
+  - Grid <`Complete`>
 
 Javascript:
-- Procedural
-- AJAX (Asynchronous JavaScript And XML)
-- API Requests
-- REACT framework
+- Procedural <`Complete`>
+- AJAX (Asynchronous JavaScript And XML) <`Complete`>
+- API Requests <`Partially Complete`>
+- REACT framework <`Pending`>
   
 </details>
 
