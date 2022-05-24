@@ -10,7 +10,7 @@
 
 - [Javascript-Practice](https://github.com/MorickClive/Vale-Javascript-Practice) - < `JS (Calculator) - MileStone Complete` >
 
-- [React-Practice](https://github.com/MorickClive) - < `Pending` >
+- [React-Practice](https://github.com/MorickClive/Vale-React-Practice) - < `In Progress` >
 
 ---
 
