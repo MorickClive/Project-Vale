@@ -10,7 +10,7 @@
 
 - [Javascript-Practice](https://github.com/MorickClive/Vale-Javascript-Practice) - < `JS (Calculator) - MileStone Complete` >
 
-- [React-Practice](https://github.com/MorickClive/Vale-React-Practice) - < `In Progress` >
+- [React-Practice](https://github.com/MorickClive/Vale-React-Practice) - < `React (API/JS-Integration) - MileStone Complete` >
 
 ---
 
@@ -56,8 +56,8 @@ HTML, CSS:
 Javascript:
 - Procedural <`Complete`>
 - AJAX (Asynchronous JavaScript And XML) <`Complete`>
-- API Requests <`Partially Complete`>
-- REACT framework <`Pending`>
+- API Requests <`Complete`>
+- REACT framework <`Complete`>
   
 </details>
 
